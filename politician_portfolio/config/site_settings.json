@@ -1,0 +1,28 @@
+{
+    "site_name": "KP Sharma Oli",
+    "site_logo": "",
+    "site_favicon": "",
+    "hero_bg_image": "",
+    "hero_heading": "Khadga Prasad Sharma Oli",
+    "hero_subtitle": "Former Prime Minister of Nepal · Chairman of CPN (UML)",
+    "about_profile_image": "",
+    "about_title": "About",
+    "about_description": "A visionary leader dedicated to Nepal's development and prosperity",
+    "about_facts": {
+        "experience": "1",
+        "position": "Former Prime Minister",
+        "party": "CPN (UML)",
+        "constituency": "Jhapa-6"
+    },
+    "theme_primary_color": "#2ac073",
+    "theme_secondary_color": "#a14a4a",
+    "theme_font": "Inter",
+    "footer_logo": "",
+    "footer_qr_image": "",
+    "footer_address": "Kathmandu, Nepal",
+    "footer_phone": "+977-1-2345678",
+    "footer_email": "contact@kpoli-portfolio.com",
+    "footer_copyright": "© 2024 KP Sharma Oli Portfolio. All rights reserved.",
+    "default_lang": "en",
+    "site_title": "KP Sharma Oli - Official Portfolio"
+}
